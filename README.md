@@ -1,4 +1,4 @@
-# Jarvis-like Chatbot
+# Jarvis-like Chatbot 🤖
 
 This project is a Jarvis-like chatbot implemented using the OpenAI API. It utilizes Python programming language to interact with users and perform various tasks.
 
